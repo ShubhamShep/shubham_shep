@@ -13,6 +13,7 @@ apps = [
     {"func": upload.app, "title": "Upload", "icon": "cloud-upload"},
     {"func": vector.app, "title": "Vector", "icon": "subtract"}
     
+    
 ]
 
 titles = [app["title"] for app in apps]
